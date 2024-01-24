@@ -1,0 +1,21 @@
+Waterfall là một phương pháp phát triển phần mềm thuần túy, không linh hoạt, có các giai đoạn phát triển 1 cách tuần tự vậy nên nó có nhiều điểm hạn chế:
+  - Với những dự án có yêu cầu không rõ ràng, có yêu cầu sự linh hoạt và thay đổi thường xuyên thì việc sử dụng waterfall có thể dẫn đến 
+    việc phải thay đổi mô hình và gây khó khăn cho việc điều chỉnh.
+  - Với những dự án lớn và phức tạp thì việc quản lý tiến độ và tương tác giữa các giai đoạn trở nên phức tạp.
+
+Waterfall có thể phù hợp với một số project có đặc điểm sau:
+  - Dự án có yêu cầu cụ thể: dự án có yêu cầu rõ ràng và cố định thì có thể dự đoán được trước vì không cần sự linh hoạt trong việc thay đổi
+    yêu cầu.
+  - Dự án vừa và nhỏ: dự án có phạm vi cụ thể, không quá phức tạp có thể dễ dàng áp dụng waterfall.
+  - Dự án không cần sự tương tác liên tục với người dùng và không yêu cầu phản hồi thường xuyên.
+  - Dự án quan trọng: những dự án quan trọng khi áp dụng waterfall sẽ được kiểm soát kĩ càng và giảm thiểu rủi ro khi gặp lỗi.
+
+Ví dụ cụ thể nên áp dụng waterfall:
+  1. Lĩnh vực tài chính và ngân hàng: vì những dự án trong lĩnh vực này cần sự bảo mật, có độ an toàn và tin cậy cao.
+     Áp dụng waterfall: Có thể theo dõi quy trình và có thể đảm bảo được tính chính xác của dự án.
+     
+  2. Lĩnh vực y tế: việc phát triển các thiết bị y tế hoặc phần mềm y tế cần yêu cầu cao về an ninh, chuẩn mực và độ chính xác cao.
+     Áp dụng waterfall: Đảm bảo quy trình có thể được theo dõi từng bước, kiểm soát nghiêm ngặt và chính xác.
+
+  3. Lĩnh vực sản xuất: với những dự án không có sự linh hoạt hoặc thay đổi đột ngột trong yêu cầu và yêu cầu tính chính xác, an toàn, bảo
+     mật thì việc sử dụng waterfall là một lựa chọn hợp lí
